@@ -3,7 +3,7 @@ Hi 👋 My name is Muhammed Bülbül
 Front-End Developer
 
 * 🌍  I'm based in Türkiye
-* ✉️  You can contact me at [developer.muhammed98@gmail.com](mailto:developer.muhammed98@gmail.com)
+* ✉️  You can contact me at [developer.muhammed98@gmail.com](mailto:dentamhmmd@gmail.com)
 
 ### Skills
 
