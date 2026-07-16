@@ -1,10 +1,18 @@
 Hi 👋 My name is Muhammed Bülbül
 ================================
 Front-End Developer
+İstediğiniz gibi bilgilerinizi e-posta ve portfolyo olarak iki ayrı başlık altında düzenledim:
 
-* 🌍  I'm based in Türkiye
-* ✉️  You can contact me at [https://muhammed-bulbul.vercel.app/](mailto:dentamhmmd@gmail.com)
+📍 Konum
 
+* **Ülke:** Türkiye 🌍
+
+---
+
+✉️ İletişim Bilgileri
+
+* **E-posta (Mail):** dentamhmmd@gmail.com
+* **Portfolyo:** [muhammed-bulbul.vercel.app](https://muhammed-bulbul.vercel.app/)
 ### Skills
 
 <p align="left">
