@@ -53,8 +53,8 @@ Front-End Developer
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" />
   </a>
   <a href="https://github.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/github-colored.svg" width="36" height="36" alt="GitHub" />
-  </a>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" width="36" height="36" alt="GitHub" style="filter: invert(1);" />
+</a>
 </p>
 
 <p align="left">
